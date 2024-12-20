@@ -51,7 +51,7 @@ This project leverages **OpenAI's Whisper API** for transcribing speech (audio f
    
 4. **Access the Colaboratory**
    ```bash
-   Colab : <https://colab.research.google.com/drive/1lNx2Qgk3kVOGHjjGrJhYgYkLD61DiXFY?usp=drive_link>
+   https://colab.research.google.com/drive/1lNx2Qgk3kVOGHjjGrJhYgYkLD61DiXFY?usp=drive_link
    
    ```
 ---
